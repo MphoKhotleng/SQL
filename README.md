@@ -1,5 +1,4 @@
 # Part 2: Querying a database
-##---------------------------------------------------------------------------------------------------------------------------
 
 1 SELECT ALL records from table Customers.
 
@@ -26,3 +25,11 @@
 12 Select all records from Products where the Price is GREATER than R500.
 
 13 Return the sum of the Amounts on the Payments table.
+
+14 Count the number of shipped orders in the Orders table.
+
+15 Return the average price of all Products, in Rands and in Dollars (assume the exchange rate is R12 to the Dollar).
+
+16 Using INNER JOIN create a query that selects all Payments with Customer information.
+
+17 Select all products that have turnable front wheels.
